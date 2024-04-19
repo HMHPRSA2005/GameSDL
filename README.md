@@ -5,7 +5,7 @@ Lớp K68CD - Trường Đại Học Công Nghệ
 
 Cách điều hướng
 - Sau khi bấm vào game, click chuột vào "Start", nếu muốn out ấn "Exit"
-
+![image](https://github.com/HMHPRSA2005/GameSDL/assets/161302954/4c3f656c-4de2-4814-976a-be43bed3dc82)
 Luật chơi:
 - Nhân vật ban đầu xuất hiện ở vị trí xuất phát và nhiệm vụ của người chơi là phải sử dụng các kỹ năng di chuyển để nhân vật có thể vượt qua các chướng ngại vật và tiêu diệt những con quái trên đường đi.
 - những vật cản gây chết nhân vật của mình trên đường đi là: gai nhọn ... ; kẻ thù ... ; đạn của kẻ thù ...
